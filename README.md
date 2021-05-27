@@ -24,3 +24,7 @@ Potential uses:
 - Etc.
 
 Clients may be developed at a later date, and packaged optionally with the software.
+
+## Unrelated tasks you may be able to assist with
+Please contact hcldev if you are able to assist with this
+- Designing a 3d-printable enclosure for the Pi and the LCD or just the LCD.
