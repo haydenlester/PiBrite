@@ -23,4 +23,4 @@ Potential uses:
 - Emails
 - Etc.
 
-Clients will be developed and perhaps optionally packaged with the software at a later date possibly.
+Clients may be developed at a later date, and packaged optionally with the software.
