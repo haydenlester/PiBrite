@@ -6,6 +6,7 @@ This a unix-based TCP server program designed to run on a Raspberry Pi. It displ
 
 ## How do I use it?
 *It is not functional as of now*
+
 Planned information to come later includes:
 - a diagram for GPIO connections
 - a standard format for notifications using XML
