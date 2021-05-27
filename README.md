@@ -22,3 +22,5 @@ Potential uses:
 - Discord messages
 - Emails
 - Etc.
+
+Clients will be developed and perhaps optionally packaged with the software at a later date possibly.
