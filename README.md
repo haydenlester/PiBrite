@@ -24,6 +24,7 @@ Potential uses:
 - Etc.
 
 Clients may be developed at a later date, and packaged optionally with the software.
+A module may also be packaged optionally to accept and convert RSS feeds.
 
 ## Unrelated tasks you may be able to assist with
 Please contact hcldev if you are able to assist with this
