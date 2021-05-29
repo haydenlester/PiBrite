@@ -58,9 +58,7 @@ void TcpServer::readin(char* buffer, int BUF_SIZE) {
    if(this->sockfd < 0)
       error("ERROR use TcpServer::init() before attempting to read in data");
    
-   printf("Starting listen\n");
    listen(this->sockfd,5); // listen on port (todo: make backlog count configurable)
-   printf("Listening . . . \n");
    newsockfd = accept(sockfd, (struct sockaddr *) &cli_addr, &clilen); // accept returns a new file descriptor to use and close
    
    printf("server: got connection from %s port %d\n", inet_ntoa(this->cli_addr.sin_addr), ntohs(this->cli_addr.sin_port));
