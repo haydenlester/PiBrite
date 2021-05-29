@@ -18,9 +18,10 @@ $$ |      $$ |$$$$$$$  |$$ |      $$ |  \$$$$  |\$$$$$$$\
    In Development
 
    TODO:
-         - TCP Server for handling TCP data transmission
-         - XML Parsing to parse notification data
-         - Library to handle LCD
+         - testing tcpserver.cpp
+         - xml parsing
+         - > decide a standard format for notifs first
+         - lcd handler class
          - More to be added as subtasks arrive...
 
 */
