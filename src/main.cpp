@@ -35,7 +35,7 @@ $$ |      $$ |$$$$$$$  |$$ |      $$ |  \$$$$  |\$$$$$$$\
 
 int main (int argc, char *argv[]) {
    
-   while(true){
+   while(true) {
       
       // TCP Server Listens and Returns Data
       
