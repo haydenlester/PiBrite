@@ -22,7 +22,3 @@ Potential uses:
 
 Clients may be developed at a later date, and packaged optionally with the software.
 A module may also be packaged optionally to accept and convert RSS feeds.
-
-## Unrelated tasks you may be able to assist with
-Please contact hcldev/sneekr-a if you are able to assist with this
-- Designing a 3d-printable enclosure for the Pi and the LCD or just the LCD.
