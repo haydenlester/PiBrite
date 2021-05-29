@@ -1,8 +1,5 @@
 # PiBrite
-An LCD-based RSS notification program for Raspberry Pis, written in C++
-
-## What is this?
-This a unix-based TCP server program designed to run on a Raspberry Pi. It displays notifications on a 16x4 LCD connected to a Raspberry Pi.
+A notification program for Raspberry Pi's to display notifications to a character-based LCD.
 
 ## How do I use it?
 *It is not functional as of now*
