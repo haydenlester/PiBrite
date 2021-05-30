@@ -2,23 +2,19 @@
 A notification program for Raspberry Pi's to display notifications to a character-based LCD.
 
 ## How do I use it?
-*It is not functional as of now*
+*It is current in development and not stable*
 
-Planned information to come later includes:
+todos:
 - a diagram for GPIO connections
 - a standard format for notifications using XML
 - information on configuring the server
+- information on the tcpserver class
+- makefile
 
-Notifications will be sent in an XML format via TCP, these notifications will be read onto the LCD.
+usage:
+1) download repo and make using makefile
+2) connect correct gpio headers to correct lcd headers
+2) execute program with one argument for port number
 
-## Where is the client?
-The beauty of it, is that you will make your own client to send any kind of notification you want to the LCD.
-
-Potential uses:
-- News articles
-- Discord messages
-- Emails
-- Etc.
-
-Clients may be developed at a later date, and packaged optionally with the software.
-A module may also be packaged optionally to accept and convert RSS feeds.
+from there, tcp data can be sent to the address and the notification will display itself on the lcd
+currently, it will only support one xml format, of which a template will be given
