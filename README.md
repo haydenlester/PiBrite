@@ -16,5 +16,4 @@ usage:
 2) connect correct gpio headers to correct lcd headers
 2) execute program with one argument for port number
 
-from there, tcp data can be sent to the address and the notification will display itself on the lcd
-currently, it will only support one xml format, of which a template will be given
+from there, tcp data can be sent to the address and the notification will display itself on the lcd. currently, it will only support one xml format, of which a template will be given. you can program your own clients to send notifications to the pi, or use a default one which will be developed later and linked here
