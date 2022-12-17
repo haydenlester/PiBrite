@@ -2,7 +2,7 @@
 A notification program for Raspberry Pi's to display notifications to a character-based LCD.
 
 ## How do I use it?
-*It is current in development and not stable*
+*Currently only the TCP server functions properly. I may return to this later.*
 
 todos:
 - a diagram for GPIO connections
