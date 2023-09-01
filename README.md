@@ -1,5 +1,5 @@
 # PiBrite
-A notification program for Raspberry Pi's to display notifications to a character-based LCD.
+A notification program for Raspberry Pi's to display notifications to a character-based LCD
 
 ## How do I use it?
 *Currently only the TCP server functions properly. I may return to this later.*
